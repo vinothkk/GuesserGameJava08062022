@@ -5,7 +5,7 @@ Three players can play.
 Defiantly one player has to be win. 
 
 
-Guesser kindly guess the number
+Guesser kindly guess the number \n
 12
 Player kindly guess the number
 12
